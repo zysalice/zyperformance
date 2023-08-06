@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "zyperformance"
+  site-url: "https://zysalice.github.io/zyperformance"
+  description: "performance valuation with price and weights"
+  repo-branch: main
+  repo-url: "https://github.com/zysalice/zyperformance"
